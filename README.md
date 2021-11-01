@@ -12,7 +12,7 @@
   4. [License](#license)
   5. [Contributing](#contributing)
   6. [Tests](#tests)
-  7. [Questions](#questions)
+  7. [Github and Tutorial](#github)
 
   ## Installation
   You must have Node.js installed. Open the terminal and run "node app.js" to start the prompts.
@@ -21,10 +21,16 @@
   This program uses Node.js, and inquirer.
 
   ## License
-  This application is licensed under the None license.
+  This application is licensed under no license.
 
   ## Contributing
   N/A
 
   ## Tests
   The Test directory has all the relevant tests.
+
+  ## Github
+  <a href="https://github.com/tmantena1">GitHub</a>
+  <br>
+  <br>
+  <a href = "https://watch.screencastify.com/v/BOP6A7zOF33ZpLm9PmUb"> Link to tutorial video</a>
